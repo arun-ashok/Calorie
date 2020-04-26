@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\python-flask-server-generated",
+    "\\python-flask-server-generated\\python-flask-server",
+    "\\python-flask-server-generated\\python-flask-server\\swagger_server",
+    "\\python-flask-server-generated\\python-flask-server\\swagger_server\\controllers",
+    "\\python-flask-server-generated\\python-flask-server\\swagger_server\\models"
+  ],
+  "SelectedNode": "\\python-flask-server-generated\\python-flask-server\\swagger_server",
+  "PreviewInSolutionExplorer": false
+}
